@@ -1,6 +1,6 @@
 # Arduino-Flappy
-Easy usage of NodeMcu andoled s1331  \n
-GND to Gnd　
+Easy usage of NodeMcu andoled s1331 
+#GND to Gnd　
 VCC to Vcc to 3.3V
 SCL to Clk Pin 13
 SDA to Din　to　Pin 11
