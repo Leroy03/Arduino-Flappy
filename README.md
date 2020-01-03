@@ -7,3 +7,7 @@ SDA to Din　to　Pin 11<Br>
 Reset to Res to Pin 9<Br>
 Dc to DC to Pin 8<Br>
 CS to CS tp Pin 10<Br>
+
+UltraSonic
+Trigger to Pin 5<BR>
+Echo to PIn 6 <Br>
